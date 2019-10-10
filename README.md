@@ -1,5 +1,6 @@
 # https://svkutyrev.github.io/yandex_sprint10/
-Версия 3.
+version 1.3
+release 1
 
 Здесь форма с валидацией полей в верстке HTML с помощью регулярных выражений
 
